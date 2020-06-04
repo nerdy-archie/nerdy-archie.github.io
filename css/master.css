@@ -15,14 +15,17 @@
   }
 
   body {
-    /* set the background color here */
-    background-color: beige;
-    /* set the text color to black here */
-    color: black;
+ 
+   
     /* set the font here */
     font-family: sans-serif, Arial, Helvetica;
     /* set the text alignment here */
     text-align: center;
+    padding: 25px;
+  
+  color: black;
+  font-size: 25px;
+    background: linear-gradient(to bottom, #660033 0%, #003300 100%);
    }
 
   footer {
